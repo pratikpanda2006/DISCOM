@@ -1,0 +1,13 @@
+building_id,site_id,building_id_kaggle,site_id_kaggle,primaryspaceusage,sub_primaryspaceusage,sqm,sqft,lat,lng,timezone,electricity,hotwater,chilledwater,steam,water,irrigation,solar,gas,industry,subindustry,heatingtype,yearbuilt,date_opened,numberoffloors,occupants,energystarscore,eui,site_eui,source_eui,leed_level,rating
+Moose_education_Maria,Moose,795.0,7.0,Education,College Classroom,35999.9,387500.0,45.4215,-75.6972,US/Eastern,Yes,Yes,Yes,,,,,,Education,College/University,,1960.0,,6.0,,,,,,,
+Moose_education_Florence,Moose,802.0,7.0,Education,College Classroom,26999.9,290625.0,45.4215,-75.6972,US/Eastern,Yes,,Yes,Yes,,,,,Education,College/University,,1995.0,,19.0,,,,,,,
+Moose_education_Marlon,Moose,796.0,7.0,Education,College Classroom,21000.0,226042.0,45.4215,-75.6972,US/Eastern,Yes,,Yes,Yes,,,,,Education,College/University,,1965.0,,2.0,,,,,,,
+Moose_education_Diane,Moose,803.0,7.0,Education,College Classroom,16999.9,182986.0,45.4215,-75.6972,US/Eastern,Yes,,Yes,Yes,,,,,Education,College/University,,1962.0,,3.0,,,,,,,
+Moose_education_Marina,Moose,800.0,7.0,Education,College Classroom,6000.0,64583.0,45.4215,-75.6972,US/Eastern,Yes,,Yes,Yes,,,,,Education,College/University,,1955.0,,2.0,80.0,,,,,,
+Moose_education_Rene,Moose,798.0,7.0,Education,College Classroom,37999.9,409028.0,45.4215,-75.6972,US/Eastern,Yes,,Yes,Yes,,,,,Education,College/University,,1970.0,,21.0,1800.0,,,,,,
+Moose_education_Lori,Moose,793.0,7.0,Education,College Classroom,14000.0,150695.0,45.4215,-75.6972,US/Eastern,Yes,Yes,Yes,,,,,,Education,College/University,,1964.0,,6.0,500.0,,,,,,
+Moose_education_Leland,Moose,799.0,7.0,Education,College Classroom,48999.9,527431.0,45.4215,-75.6972,US/Eastern,Yes,,Yes,Yes,,,,,Education,College/University,,1976.0,,26.0,2000.0,,,,,,
+Moose_education_Clark,Moose,797.0,7.0,Education,College Classroom,70999.9,764237.0,45.4215,-75.6972,US/Eastern,Yes,,Yes,Yes,,,,,Education,College/University,,1979.0,,13.0,2380.0,,,,,,
+Moose_education_Abbie,Moose,801.0,7.0,Education,College Classroom,45000.0,484376.0,45.4215,-75.6972,US/Eastern,Yes,,Yes,Yes,,,,,Education,College/University,,1952.0,,5.0,1700.0,,,,,,
+Moose_education_Gladys,Moose,794.0,7.0,Education,College Classroom,67999.9,731945.0,45.4215,-75.6972,US/Eastern,Yes,Yes,Yes,,,,,,Education,College/University,,1969.0,,11.0,,,,,,,
+Moose_education_Ricardo,Moose,791.0,7.0,Education,College Classroom,14000.0,150695.0,45.4215,-75.6972,US/Eastern,Yes,,Yes,Yes,,,,,Education,College/University,,,,5.0,,,,,,,

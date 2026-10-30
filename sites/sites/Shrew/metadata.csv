@@ -1,0 +1,10 @@
+building_id,site_id,building_id_kaggle,site_id_kaggle,primaryspaceusage,sub_primaryspaceusage,sqm,sqft,lat,lng,timezone,electricity,hotwater,chilledwater,steam,water,irrigation,solar,gas,industry,subindustry,heatingtype,yearbuilt,date_opened,numberoffloors,occupants,energystarscore,eui,site_eui,source_eui,leed_level,rating
+Shrew_office_Sherill,Shrew,,,Office,Office,18098.0,194805.0,51.49984,-0.124663,Europe/London,Yes,,,,,,,,Government,Other Government Buildings,Gas,2000.0,,10.0,721.0,,,,,,E
+Shrew_office_Rose,Shrew,,,Office,Office,1058.0,11388.0,51.49984,-0.124663,Europe/London,Yes,,,,,,,Yes,Government,Other Government Buildings,Gas,,,5.0,46.0,,,,,,E
+Shrew_office_Nora,Shrew,,,Office,Office,10203.0,109824.0,51.49984,-0.124663,Europe/London,Yes,,,,,,,Yes,Government,Other Government Buildings,Gas,1906.0,,9.0,393.0,,,,,,F
+Shrew_office_Katherine,Shrew,,,Office,Office,3410.0,36705.0,51.49984,-0.124663,Europe/London,Yes,,,,,,,,Government,Other Government Buildings,Gas,1902.0,,7.0,264.0,,,,,,E
+Shrew_office_Ila,Shrew,,,Office,Office,10905.0,117380.0,51.49984,-0.124663,Europe/London,Yes,,,,,,,,Government,Other Government Buildings,Gas,,,10.0,525.0,,,,,,E
+Shrew_office_Doug,Shrew,,,Office,Office,5630.0,60601.0,51.49984,-0.124663,Europe/London,Yes,,,,,,,Yes,Government,Other Government Buildings,Gas,1906.0,,10.0,283.0,,,,,,E
+Shrew_office_Doris,Shrew,,,Office,Office,22568.9,242930.0,51.49984,-0.124663,Europe/London,Yes,,,,,,,Yes,Government,Other Government Buildings,Gas,,,11.0,410.0,,,,,,G
+Shrew_office_Lin,Shrew,,,Office,Office,13995.0,150641.0,51.49984,-0.124663,Europe/London,Yes,,,,,,,,Government,Other Government Buildings,Gas,1915.0,,10.0,818.0,,,,,,E
+Shrew_office_Kenneth,Shrew,,,Office,Office,1719.0,18503.0,51.49984,-0.124663,Europe/London,Yes,,,,,,,,Government,Other Government Buildings,Electricity,1937.0,,7.0,97.0,,,,,,F

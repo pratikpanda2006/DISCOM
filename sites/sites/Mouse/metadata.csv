@@ -1,0 +1,6 @@
+building_id,site_id,building_id_kaggle,site_id_kaggle,primaryspaceusage,sub_primaryspaceusage,sqm,sqft,lat,lng,timezone,electricity,hotwater,chilledwater,steam,water,irrigation,solar,gas,industry,subindustry,heatingtype,yearbuilt,date_opened,numberoffloors,occupants,energystarscore,eui,site_eui,source_eui,leed_level,rating
+Mouse_health_Modesto,Mouse,,,Healthcare,Hospital,17993.0,193675.0,51.52193899999999,-0.120069,Europe/London,Yes,,,,,,,,Healthcare,Hospital,District Heating,1994.0,,7.0,,,,,,,F
+Mouse_lodging_Vicente,Mouse,,,Lodging/residential,Hotel,3489.0,37555.0,51.52193899999999,-0.120069,Europe/London,Yes,,,,,,,,Hospitality,Hotel,Gas Boilers,2006.0,,7.0,,,,,,,F
+Mouse_health_Justin,Mouse,,,Healthcare,Hospital,17735.0,190898.0,51.52193899999999,-0.120069,Europe/London,Yes,,,,,,,,Healthcare,Hospital,District Heating,2012.0,,10.0,,,,,,,F
+Mouse_health_Ileana,Mouse,,,Healthcare,Hospital,5399.0,58114.0,51.52193899999999,-0.120069,Europe/London,Yes,,,,,,,,Healthcare,Hospital,District Heating,1954.0,,6.0,,,,,,,F
+Mouse_health_Estela,Mouse,,,Healthcare,Hospital,17193.0,185064.0,51.52193899999999,-0.120069,Europe/London,Yes,,,,,,,,Healthcare,Hospital,District Heating,1936.0,,10.0,,,,,,,F

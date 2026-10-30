@@ -1,0 +1,6 @@
+building_id,site_id,building_id_kaggle,site_id_kaggle,primaryspaceusage,sub_primaryspaceusage,sqm,sqft,lat,lng,timezone,electricity,hotwater,chilledwater,steam,water,irrigation,solar,gas,industry,subindustry,heatingtype,yearbuilt,date_opened,numberoffloors,occupants,energystarscore,eui,site_eui,source_eui,leed_level,rating
+Crow_education_Omer,Crow,1032.0,11.0,Education,Academic,11857.4,127632.0,45.3876,-75.696,US/Eastern,Yes,Yes,Yes,,,,,,Education,College/University,,,,,,,,,,,
+Crow_education_Keisha,Crow,1029.0,11.0,Education,Academic,14173.2,152559.0,45.3876,-75.696,US/Eastern,Yes,Yes,Yes,,,,,,Education,College/University,,,,,,,,,,,
+Crow_education_Kate,Crow,1030.0,11.0,Education,Academic,6320.2,68030.0,45.3876,-75.696,US/Eastern,Yes,Yes,Yes,,,,,,Education,College/University,,,,,,,,,,,
+Crow_education_Winston,Crow,1031.0,11.0,Education,Academic,8659.1,93206.0,45.3876,-75.696,US/Eastern,Yes,Yes,Yes,,,,,,Education,College/University,,,,,,,,,,,
+Crow_education_Marlin,Crow,1028.0,11.0,Education,Academic,7561.4,81390.0,45.3876,-75.696,US/Eastern,Yes,Yes,Yes,,,,,,Education,College/University,,,,,,,,,,,
